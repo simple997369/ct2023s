@@ -63,12 +63,18 @@
   <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
 
   <rect x="20" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="20.4" y="53.9" style="font-size:3pt;">朴</text>
+  <text x="20.4" y="53.9" style="font-size:3pt;">嫁</text>
   <rect x="20" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="20.4" y="58.733" style="font-size:3pt;">彩</text>
+  <text x="20.4" y="58.733" style="font-size:3pt;">給</text>
   <rect x="20" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="20.4" y="63.566" style="font-size:3pt;">英</text>
+  <text x="20.4" y="63.566" style="font-size:3pt;">我</text>
 
+  <rect x="24.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="53.9" style="font-size:3pt;;" fill="blue">朴</text>
+  <rect x="24.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="58.733" style="font-size:3pt;" fill="blue">彩</text>
+  <rect x="24.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="63.566" style="font-size:3pt;" fill="blue">英</text>
 
   <text x="30" y="30" style="font-size:1.5pt;" fill="red">初號 42pt 14.761mm</text>
   <text x="30" y="35" style="font-size:1.5pt;" fill="red">二號 21pt 7.381mm</text>
